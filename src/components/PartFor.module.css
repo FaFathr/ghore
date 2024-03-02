@@ -1,0 +1,34 @@
+.container{
+width: 80%;
+display: grid;
+grid-template-columns: repeat(2,400px);
+justify-content: center;
+align-content: space-evenly;
+grid-template-rows: auto;
+background-color: #fff;
+margin-right: 135px;
+border-radius: 15px;
+margin-top: 8px;
+
+}
+.container2{
+    display: flex;
+flex-direction: row;
+margin-top: 20px;
+border-bottom: 1px solid rgb(212, 212, 212);
+}
+.container2 h3{
+    font-size: 15px;
+    margin-right: 20px;
+    color:#444 ;
+}
+.container2 span{
+    margin-right: 20px;
+    color: #999;
+}
+
+.img{
+width:80px;
+border-radius: 10px;
+}
+

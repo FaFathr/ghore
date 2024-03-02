@@ -1,0 +1,19 @@
+.container{
+    background-color:#fff;
+    /* background-color: saddlebrown; */
+    border-radius: 50px;
+    padding: 15px 10px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+   
+   width: 80%;
+   margin-right: 132px;
+}
+.container p{
+font-size: 1.2rem;
+    text-align: left;
+    font-weight: 500;
+}
